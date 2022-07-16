@@ -1,0 +1,32 @@
+entity: PreferenceModel
+items:
+  PreferenceFirstProfileData:
+    id: "e99461e8-7565-4fa3-a9fa-ce8525022b5a"
+    age_minimum: "18"
+    age_maximum: "22"
+    createDate: "1985-12-20"
+    updateDate: "1985-12-21"
+  PreferenceUserUpdateProfilesData:
+    id: "01c3279b-ec76-43d3-90bf-ecee6e006962"
+    age_minimum: "20"
+    age_maximum: "25"
+    createDate: "1985-12-20"
+    updateDate: "1985-12-21"
+  PreferenceUnusedProfile:
+    id: "a2359989-6b25-49d8-ac6c-d01c1697b79f"
+    age_minimum: "35"
+    age_maximum: "40"
+    createDate: "1985-12-20"
+    updateDate: "1985-12-21"
+  PreferenceAddTagsProfile:
+    id: "f4d0980b-c9e3-44ce-9bcf-77f931813a96"
+    age_minimum: "25"
+    age_maximum: "25"
+    createDate: "1985-12-20"
+    updateDate: "1985-12-21"
+  PreferenceChangeMailProfile:
+    id: "bab4b696-c32a-4e4c-a8e3-562a4d3e9006"
+    age_minimum: "27"
+    age_maximum: "77"
+    createDate: "1985-12-20"
+    updateDate: "1985-12-21"

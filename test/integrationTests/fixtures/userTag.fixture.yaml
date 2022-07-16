@@ -1,0 +1,20 @@
+entity: UsersTagModel
+items:
+  TagTest1:
+    id: "7a1cb6b9-6236-4e4d-ad7a-00287d06da8c"
+    createDate: "1985-12-20"
+    updateDate: "1985-12-21"
+    tag: "@Cinema"
+    userProfile: "@UserUpdateProfilesData"
+  TagTest2:
+    id: "7a1cb6b9-6236-4e4d-ad7a-00287d06da9a"
+    createDate: "1985-12-20"
+    updateDate: "1985-12-21"
+    tag: "@Fitness"
+    userProfile: "@UserUpdateProfilesData"
+  AddTagsProfile1:
+    id: "7a1cb6b9-6236-4e4d-ad7a-00287d06da9d"
+    createDate: "1985-12-20"
+    updateDate: "1985-12-21"
+    tag: "@Cinema"
+    userProfile: "@AddTagsProfile"

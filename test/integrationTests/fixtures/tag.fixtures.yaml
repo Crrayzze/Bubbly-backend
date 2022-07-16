@@ -1,0 +1,57 @@
+entity: TagModel
+items:
+  Cinema:
+    id: "653fceb8-eba6-4cd2-b340-0b074ba09e1a"
+    createDate: "1985-12-20"
+    updateDate: "1985-12-21"
+    name: "Cinéma"
+  Fitness:
+    id: "95336a4b-4676-48fe-9560-ec2809e294f4"
+    createDate: "1985-12-20"
+    updateDate: "1985-12-21"
+    name: "Fitness"
+  Animaux:
+    id: "f0fd647e-1ae3-489a-862e-c986afcb6b90"
+    createDate: "1985-12-20"
+    updateDate: "1985-12-21"
+    name: "Animaux"
+  Voyage:
+    id: "89fd3628-e760-4b6d-98b3-e2939792fbdf"
+    createDate: "1985-12-20"
+    updateDate: "1985-12-21"
+    name: "Voyage"
+  Nature:
+    id: "81a11418-ec02-4d0e-94b7-7395257ac4ad"
+    createDate: "1985-12-20"
+    updateDate: "1985-12-21"
+    name: "Nature"
+  Jeux-videos:
+    id: "48996e63-c6cd-4e6b-8fb8-98f6af8a2a06"
+    createDate: "1985-12-20"
+    updateDate: "1985-12-21"
+    name: "Jeux Vidéos"
+  Volleyball:
+    id: "ea34f850-21dc-4e10-bc9c-45ab5db8a6a5"
+    createDate: "1985-12-20"
+    updateDate: "1985-12-21"
+    name: "Volley Ball"
+  Football:
+    id: "5ab2b64f-a67b-4e2d-b162-61e6f7ce8cd9"
+    createDate: "1985-12-20"
+    updateDate: "1985-12-21"
+    name: "Football"
+  Basketball:
+    id: "a2c9d217-2119-45fd-8507-6d0d07584223"
+    createDate: "1985-12-20"
+    updateDate: "1985-12-21"
+    name: "Basketball"
+  Rugby:
+    id: "440003ac-b881-4e7c-8863-e841549650b1"
+    createDate: "1985-12-20"
+    updateDate: "1985-12-21"
+    name: "Rugby"
+  Photographie:
+    id: "022426ab-77c3-4356-bf20-e0a776dfad7a"
+    createDate: "1985-12-20"
+    updateDate: "1985-12-21"
+    name: "Photographie"

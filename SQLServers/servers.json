@@ -1,0 +1,13 @@
+{
+    "Servers": {
+        "Postgres": {
+            "Name": "Bubbly DB",
+            "Port": 5432,
+            "Group": "Servers",
+            "SSLMode": "prefer",
+            "Username": "postgres",
+            "Host": "db",
+            "MaintenanceDB": "postgres"
+        }
+    }
+}

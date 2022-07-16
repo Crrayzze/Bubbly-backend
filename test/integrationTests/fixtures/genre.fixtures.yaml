@@ -1,0 +1,17 @@
+entity: GenreModel
+items:
+  Femme:
+    id: "2adcaa0b-5db8-42e9-b67d-eb7940ae58a7"
+    name: "Femme"
+    createDate: "1985-12-20"
+    updateDate: "1985-12-21"
+  Homme:
+    id: "2adcaa0b-5db8-42e9-b67d-eb7940ae58a8"
+    name: 'Homme'
+    createDate: "1985-12-20"
+    updateDate: "1985-12-21"
+  NonBinaire:
+    id: "2adcaa0b-5db8-42e9-b67d-eb7940ae58a9"
+    name: 'Non-binaire'
+    createDate: "1985-12-20"
+    updateDate: "1985-12-21"

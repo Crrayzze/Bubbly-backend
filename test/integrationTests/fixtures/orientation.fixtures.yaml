@@ -1,0 +1,27 @@
+entity: OrientationModel
+items:
+  Heterosexuel:
+    id: "2adcaa0b-5db8-42e9-b67d-eb7940ae58a3"
+    orientation: "Heterosexuel"
+    createDate: "1985-12-20"
+    updateDate: "1985-12-21"
+  Homosexuel:
+    id: "1a284473-6920-4dde-9dc4-faff03284ed4"
+    orientation: "Homosexuel"
+    createDate: "1985-12-20"
+    updateDate: "1985-12-21"
+  Bisexuel:
+    id: "891bccf6-cb75-4131-bb06-bf9163e0007e"
+    orientation: "Bisexuel"
+    createDate: "1985-12-20"
+    updateDate: "1985-12-21"
+  Pansexuel:
+    id: "b9b4fa84-1b53-466c-89a4-a587ea76b7eb"
+    orientation: "Pansexuel"
+    createDate: "1985-12-20"
+    updateDate: "1985-12-21"
+  Queer:
+    id: "3cf84b0c-c6a8-43a4-9a66-075c0271aa48"
+    orientation: "Queer"
+    createDate: "1985-12-20"
+    updateDate: "1985-12-21"

@@ -1,0 +1,23 @@
+entity: VideoModel
+items:
+  FirstVideo:
+    id: "bc8a9ff4-a7d1-4da9-a2af-425869af0460"
+    createDate: "1985-12-20"
+    updateDate: "1985-12-21"
+    PublishDate: "2022-01-21"
+    Url: "Coucou trop bo l'url"
+    profile: "@UnusedProfile"
+  SecondVideo:
+    id: "b4d5fc22-7447-41c9-81bf-94749aab7e20"
+    createDate: "1985-12-20"
+    updateDate: "1985-12-21"
+    PublishDate: "2022-01-21"
+    Url: "Ah ouai lui aussi pas mal"
+    profile: "@UnusedProfile"
+  ThirdVideo:
+    id: "b4d5fc22-7447-41c9-81bf-94749aab7e19"
+    createDate: "1985-12-20"
+    updateDate: "1985-12-21"
+    PublishDate: "2022-01-21"
+    Url: "Ah ouai lui aussi pas mal"
+    profile: "@UserUpdateProfilesData"

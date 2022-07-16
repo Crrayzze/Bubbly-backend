@@ -1,0 +1,16 @@
+entity: LikeModel
+items:
+  FirstLike:
+    id: "a0958de3-8154-4d3f-8639-b731b4c2df0d"
+    matched: "false"
+    createDate: "1985-12-20"
+    updateDate: "1985-12-21"
+    from: "@FirstProfileData"
+    to: "@UserUpdateProfilesData"
+  SecondLike:
+    id: "a0958de3-8154-4d3f-8639-b731b4c2d123"
+    matched: "false"
+    createDate: "1985-12-20"
+    updateDate: "1985-12-21"
+    from: "@AddTagsProfile"
+    to: "@UserUpdateProfilesData"

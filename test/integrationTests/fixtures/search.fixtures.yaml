@@ -1,0 +1,17 @@
+entity: SearchModel
+items:
+  Serious:
+    id: "77106ff2-8bf1-11ec-a8a3-0242ac120002"
+    search: "Serious"
+    createDate: "1985-12-20"
+    updateDate: "1985-12-21"
+  Non_serious:
+    id: "7e648d06-8bf1-11ec-a8a3-0242ac120002"
+    search: "Non serious"
+    createDate: "1985-12-20"
+    updateDate: "1985-12-21"
+  Friendship:
+    id: "890fd116-8bf1-11ec-a8a3-0242ac120002"
+    search: "Friendship"
+    createDate: "1985-12-20"
+    updateDate: "1985-12-21"

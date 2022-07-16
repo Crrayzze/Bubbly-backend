@@ -1,0 +1,37 @@
+version: "3"
+services:
+    db:
+        image: postgres
+        volumes:
+            # - ./initSQL/users.sql:/docker-entrypoint-initdb.d/users.sql
+            - postgres:/data/postgres
+        restart: always
+        ports:
+            - "5432:5432"
+        networks:
+            - backend
+        environment:
+            POSTGRES_USER: postgres
+            POSTGRES_PASSWORD: Bubbly2023
+            PGDATA: /data/postgres
+    pgadmin:
+        image: dpage/pgadmin4
+        environment:
+            PGADMIN_DEFAULT_EMAIL: admin@bubbly.com
+            PGADMIN_DEFAULT_PASSWORD: Bubbly2023
+            PGADMIN_CONFIG_SERVER_MODE: 'False'
+        restart: always
+        volumes:
+            - pgadmin:/root/.pgadmin
+            - "./SQLServers/servers.json:/pgadmin4/servers.json"
+        ports:
+            - "8000:80"
+        networks:
+            - backend
+
+networks:
+    backend:
+
+volumes:
+    postgres:
+    pgadmin:
